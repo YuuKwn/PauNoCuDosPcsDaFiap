@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PauNoCuDosPcsDaFiap</string>
+    <string name="titulo_char">Crie Seu Personagem</string>
+    <string name="label_nome">Nome do Personagem</string>
+    <string name="label_sexo">Sexo</string>
+    <string name="label_menino">É menino</string>
+    <string name="label_menina">É menina</string>
+    <string name="label_classe">Classe</string>
+    <string name="label_forca">Força</string>
+    <string name="button_criar">Criar</string>
+
+    <string name="bardo">Bardo</string>
+    <string name="mago">Mago</string>
+    <string name="guerreiro">Guerreiro</string>
+</resources>
